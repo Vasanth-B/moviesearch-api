@@ -5,7 +5,7 @@
 
 This is a movie search web application that interacts with the OMDB API to allow users to search for movies, TV series, and episodes by title or keyword. The app includes several features such as filtering by movie type, pagination for large result sets, infinite scroll, and detailed views for individual movies. The app is built using React, Axios, Tailwind CSS, and React Router for client-side routing.
 
-## Demo : [Click Here!!!](https://movies-searchappreact.netlify.app/)
+## Demo : [Click Here!!!](https://moviesearch-api-task.netlify.app/)
 
 ## Features
 
